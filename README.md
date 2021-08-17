@@ -6,6 +6,3 @@
 
 ## For getting Start:
 write in the command line **"npm i"** to install the dependencies, then write **"npm start"** to run the react app on the localhost.
-
-# For getting Start:
-write in the command line **"npm i"** to install the dependencies, then write **"npm start"** to run the react app on the localhost.
