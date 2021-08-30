@@ -6,3 +6,5 @@
 
 ## For getting Start:
 write in the command line **"npm i"** to install the dependencies, then write **"npm start"** to run the react app on the localhost.
+
+# You can try my demo [here](https://simumtik.herokuapp.com/)
